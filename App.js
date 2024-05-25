@@ -3,7 +3,7 @@ import Calendar from 'react-calendar';
 import 'react-calendar/dist/Calendar.css';
 import './App.css';
 
-// 날짜를 한국어로 설정
+
 import { format } from 'date-fns';
 import { ko } from 'date-fns/locale';
 
